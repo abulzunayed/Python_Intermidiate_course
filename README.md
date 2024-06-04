@@ -1,4 +1,4 @@
-In this intermediate Python course, I learned the following tasks:
+# In this intermediate Python course, I learned the following tasks:
 1.  how to do “Data Manipulation” for data Visualization,
 2.  data classification, data analysis including sorting, Aggregating data, Slicing,
 3.  indexing, Missing data handle and CSV.
